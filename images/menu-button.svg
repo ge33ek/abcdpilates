@@ -1,0 +1,17 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.778 18.568">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #db8ebc;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <title>menu button</title>
+  <line class="cls-1" x1="1.5" y1="1.5" x2="23.278" y2="1.5"/>
+  <line class="cls-1" x1="1.5" y1="9.129" x2="23.278" y2="9.129"/>
+  <line class="cls-1" x1="1.5" y1="17.068" x2="23.278" y2="17.068"/>
+</svg>
