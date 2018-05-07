@@ -1,0 +1,1064 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="abcdpilates.com.au" resolutions="1x" timestamp="1525564626686">
+  <folder name="css">
+    <file name="site_global.css" crc="93975148"/>
+    <file name="master_a-master.css" crc="4006452229" ref="teenage-pilates:about-jeannie-marie:contact:training---certification:about-stott-pilates®:prices:about:testimonials:index:about-abcd-pilates:faq"/>
+    <file name="nomq_preview_master_a-master.css" crc="3764732291" ref="teenage-pilates:about-jeannie-marie:contact:training---certification:about-stott-pilates®:prices:about:testimonials:index:about-abcd-pilates:faq"/>
+    <file name="teenage-pilates.css" crc="197720112" ref="teenage-pilates"/>
+    <file name="nomq_teenage-pilates.css" crc="4294348080" ref="teenage-pilates"/>
+    <file name="about-jeannie-marie.css" crc="94059351" ref="about-jeannie-marie"/>
+    <file name="nomq_about-jeannie-marie.css" crc="86616840" ref="about-jeannie-marie"/>
+    <file name="contact.css" crc="381431727" ref="contact"/>
+    <file name="nomq_contact.css" crc="409138260" ref="contact"/>
+    <file name="training---certification.css" crc="340681914" ref="training---certification"/>
+    <file name="nomq_training---certification.css" crc="53609604" ref="training---certification"/>
+    <file name="about-stott-pilates_.css" crc="3964254786" ref="about-stott-pilates®"/>
+    <file name="nomq_about-stott-pilates_.css" crc="4245935452" ref="about-stott-pilates®"/>
+    <file name="prices.css" crc="4079964601" ref="prices"/>
+    <file name="nomq_prices.css" crc="3759572988" ref="prices"/>
+    <file name="about.css" crc="3797526084" ref="about"/>
+    <file name="nomq_about.css" crc="255043739" ref="about"/>
+    <file name="testimonials.css" crc="508133999" ref="testimonials"/>
+    <file name="nomq_testimonials.css" crc="3822763203" ref="testimonials"/>
+    <file name="index.css" crc="3763275061" ref="index"/>
+    <file name="nomq_index.css" crc="3773030284" ref="index"/>
+    <file name="about-abcd-pilates.css" crc="503159519" ref="about-abcd-pilates"/>
+    <file name="nomq_about-abcd-pilates.css" crc="204044764" ref="about-abcd-pilates"/>
+    <file name="faq.css" crc="4228001985" ref="faq"/>
+    <file name="nomq_faq.css" crc="3948081813" ref="faq"/>
+  </folder>
+  <folder name="assets">
+    <file name="introofferflyer.jpg" crc="200919315" seo="true" mt="1521245631000"/>
+    <file name="st11045_large.jpg" crc="149122479" seo="true" mt="1524295949000"/>
+    <file name="st01067.jpg" crc="61115189" seo="true" mt="1524295928000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-jeannie-marie:faq:testimonials:contact:training---certification:about-stott-pilates®:about-abcd-pilates:prices:teenage-pilates:about"/>
+    <file name="museutils.js" crc="3803043152" ref="index:about-jeannie-marie:faq:testimonials:contact:training---certification:about-stott-pilates®:about-abcd-pilates:prices:teenage-pilates:about"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-jeannie-marie:faq:testimonials:contact:training---certification:about-stott-pilates®:about-abcd-pilates:prices:teenage-pilates:about"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:about-jeannie-marie:faq:testimonials:contact:training---certification:about-stott-pilates®:about-abcd-pilates:prices:teenage-pilates:about"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about-jeannie-marie:faq:testimonials:contact:training---certification:about-stott-pilates®:about-abcd-pilates:prices:teenage-pilates:about"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:about-jeannie-marie:faq:testimonials:contact:training---certification:about-stott-pilates®:about-abcd-pilates:prices:teenage-pilates:about"/>
+    <file name="webpro.js" crc="242022427" ref="index:about-jeannie-marie:faq:testimonials:contact:training---certification:about-stott-pilates®:about-abcd-pilates:prices:teenage-pilates:about"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index:about-jeannie-marie:faq:testimonials:contact:training---certification:about-stott-pilates®:about-abcd-pilates:prices:teenage-pilates:about"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-jeannie-marie:faq:testimonials:contact:training---certification:about-stott-pilates®:about-abcd-pilates:prices:teenage-pilates:about"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:about-jeannie-marie:faq:testimonials:contact:training---certification:about-stott-pilates®:about-abcd-pilates:prices:teenage-pilates:about"/>
+    <file name="require.js" crc="4157109226" ref="index:about-jeannie-marie:faq:testimonials:contact:training---certification:about-stott-pilates®:about-abcd-pilates:prices:teenage-pilates:about"/>
+    <file name="form_check.php" crc="147359589" ref="contact"/>
+    <file name="form_throttle.php" crc="93986428" ref="contact"/>
+    <file name="form_process.php" crc="3851993751" ref="contact"/>
+    <file name="form-u3106.php" crc="3790422529" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="375964154" ref="index:faq"/>
+    <file name="abcdlogorgbresized2.jpg" crc="3809171667" seo="true" ref="index:about-jeannie-marie:faq:testimonials:contact:training---certification:about-stott-pilates®:about-abcd-pilates:prices:teenage-pilates:about">
+      <caption webpage="about-jeannie-marie" alt=""/>
+      <caption webpage="about-jeannie-marie" alt=""/>
+      <caption webpage="about-jeannie-marie" alt=""/>
+      <caption webpage="about-jeannie-marie" alt=""/>
+      <caption webpage="about-jeannie-marie" alt=""/>
+      <caption webpage="about-jeannie-marie" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="training---certification" alt=""/>
+      <caption webpage="training---certification" alt=""/>
+      <caption webpage="training---certification" alt=""/>
+      <caption webpage="training---certification" alt=""/>
+      <caption webpage="training---certification" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+    </file>
+    <file name="caro121.jpg" crc="445099417" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:about-jeannie-marie:faq:testimonials:contact:training---certification:about-stott-pilates®:about-abcd-pilates:prices:teenage-pilates:about"/>
+    <file name="offertile22.jpg" crc="3813066421" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="caro32.jpg" crc="3846119066" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="caro5.jpg" crc="4057691039" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="caro422.jpg" crc="3785286923" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="home01res.jpg" crc="225303423" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home02res.jpg" crc="4011896747" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu-button.svg" crc="3899605941" seo="true" ref="index:about-jeannie-marie:faq:testimonials:contact:training---certification:about-stott-pilates®:about-abcd-pilates:prices:teenage-pilates:about">
+      <caption webpage="about-jeannie-marie" alt=""/>
+      <caption webpage="about-jeannie-marie" alt=""/>
+      <caption webpage="about-jeannie-marie" alt=""/>
+      <caption webpage="about-jeannie-marie" alt=""/>
+      <caption webpage="about-jeannie-marie" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="training---certification" alt=""/>
+      <caption webpage="training---certification" alt=""/>
+      <caption webpage="training---certification" alt=""/>
+      <caption webpage="training---certification" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+    </file>
+    <file name="menu button_poster_.png" crc="3899227771" ref="index:faq"/>
+    <file name="abcdlogorgbresized.jpg" crc="261285705" seo="true" ref="index:about-jeannie-marie:faq:testimonials:contact:training---certification:about-stott-pilates®:about-abcd-pilates:prices:teenage-pilates:about">
+      <caption webpage="about-jeannie-marie" alt=""/>
+      <caption webpage="about-jeannie-marie" alt=""/>
+      <caption webpage="about-jeannie-marie" alt=""/>
+      <caption webpage="about-jeannie-marie" alt=""/>
+      <caption webpage="about-jeannie-marie" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="training---certification" alt=""/>
+      <caption webpage="training---certification" alt=""/>
+      <caption webpage="training---certification" alt=""/>
+      <caption webpage="training---certification" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+    </file>
+    <file name="home01.jpg" crc="4179278436" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home02.jpg" crc="229298243" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="caro121752x361.jpg" crc="97058981" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="offertile22752x361.jpg" crc="3985453019" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="caro32752x362.jpg" crc="519212156" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="caro5752x362.jpg" crc="266657291" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="caro422741x357.jpg" crc="4105522792" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu-button_res.svg" crc="513261509" seo="true" ref="index:about-jeannie-marie:faq:testimonials:contact:training---certification:about-stott-pilates®:about-abcd-pilates:prices:teenage-pilates:about">
+      <caption webpage="about-jeannie-marie" alt=""/>
+      <caption webpage="about-jeannie-marie" alt=""/>
+      <caption webpage="about-jeannie-marie" alt=""/>
+      <caption webpage="about-jeannie-marie" alt=""/>
+      <caption webpage="about-jeannie-marie" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="training---certification" alt=""/>
+      <caption webpage="training---certification" alt=""/>
+      <caption webpage="training---certification" alt=""/>
+      <caption webpage="training---certification" alt=""/>
+      <caption webpage="training---certification" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+    </file>
+    <file name="menu button_res_poster_.png" crc="3942838419" ref="index:faq"/>
+    <file name="caro121557x268.jpg" crc="4197995430" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="offertile22557x268.jpg" crc="233855524" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="caro32557x269.jpg" crc="268634237" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="caro5557x269.jpg" crc="4169021515" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="caro422557x269.jpg" crc="178428740" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home01res2.jpg" crc="418290458" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home02res2.jpg" crc="348631351" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="abcdlogorgbresized3.jpg" crc="4064944227" seo="true" ref="index:about-jeannie-marie:faq:testimonials:contact:training---certification:about-stott-pilates®:about-abcd-pilates:prices:teenage-pilates:about">
+      <caption webpage="about-jeannie-marie" alt=""/>
+      <caption webpage="about-jeannie-marie" alt=""/>
+      <caption webpage="about-jeannie-marie" alt=""/>
+      <caption webpage="about-jeannie-marie" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="training---certification" alt=""/>
+      <caption webpage="training---certification" alt=""/>
+      <caption webpage="training---certification" alt=""/>
+      <caption webpage="training---certification" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+    </file>
+    <file name="caro121473x227.jpg" crc="4063758627" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="offertile22461x221.jpg" crc="3849692161" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="caro32473x228.jpg" crc="4190647612" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="caro5473x228.jpg" crc="4116258415" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="caro422473x228.jpg" crc="415335493" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="caro121384x185.jpg" crc="3851126394" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="offertile22384x185.jpg" crc="4103271465" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="caro32384x185.jpg" crc="3813566099" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="caro5384x185.jpg" crc="4226501589" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="caro422384x185.jpg" crc="3957786865" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home01res2194x194.jpg" crc="4016183633" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home02res2194x194.jpg" crc="4232548340" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="caro121338x162.jpg" crc="3786266007" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="offertile22338x162.jpg" crc="262028784" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="caro32337x163.jpg" crc="4224301316" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="caro5337x163.jpg" crc="3899506117" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="caro422333x160.jpg" crc="58687657" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home01res2175x176.jpg" crc="161909611" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home02res2175x176.jpg" crc="425046356" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="caro121299x143.jpg" crc="17508795" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="offertile22299x143.jpg" crc="4004913126" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="caro32298x143.jpg" crc="3777456920" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="caro5298x143.jpg" crc="325148133" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="caro422295x142.jpg" crc="332883257" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home01res2150x150.jpg" crc="94446817" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home02res2150x150.jpg" crc="519250228" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aboutjm.jpg" crc="167487539" seo="true" ref="about-jeannie-marie">
+      <caption webpage="about-jeannie-marie" alt=""/>
+      <caption webpage="about-jeannie-marie" alt=""/>
+      <caption webpage="about-jeannie-marie" alt=""/>
+      <caption webpage="about-jeannie-marie" alt=""/>
+      <caption webpage="about-jeannie-marie" alt=""/>
+      <caption webpage="about-jeannie-marie" alt=""/>
+    </file>
+    <file name="aboutjmres2.jpg" crc="215935473" seo="true" ref="about-jeannie-marie">
+      <caption webpage="about-jeannie-marie" alt=""/>
+      <caption webpage="about-jeannie-marie" alt=""/>
+      <caption webpage="about-jeannie-marie" alt=""/>
+      <caption webpage="about-jeannie-marie" alt=""/>
+    </file>
+    <file name="about01res.jpg" crc="4113548167" seo="true" ref="about-jeannie-marie">
+      <caption webpage="about-jeannie-marie" alt=""/>
+      <caption webpage="about-jeannie-marie" alt=""/>
+      <caption webpage="about-jeannie-marie" alt=""/>
+      <caption webpage="about-jeannie-marie" alt=""/>
+      <caption webpage="about-jeannie-marie" alt=""/>
+    </file>
+    <file name="faq01.jpg" crc="3953555978" seo="true" ref="faq">
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+    </file>
+    <file name="faq01659x366.jpg" crc="4278366957" seo="true" ref="faq">
+      <caption webpage="faq" alt=""/>
+    </file>
+    <file name="faq01515x287.jpg" crc="330231573" seo="true" ref="faq">
+      <caption webpage="faq" alt=""/>
+    </file>
+    <file name="faq01495x275.jpg" crc="3819413438" seo="true" ref="faq">
+      <caption webpage="faq" alt=""/>
+    </file>
+    <file name="faq01386x215.jpg" crc="4201459527" seo="true" ref="faq">
+      <caption webpage="faq" alt=""/>
+    </file>
+    <file name="faq01324x180.jpg" crc="4134136139" seo="true" ref="faq">
+      <caption webpage="faq" alt=""/>
+    </file>
+    <file name="faq01267x148.jpg" crc="401485518" seo="true" ref="faq">
+      <caption webpage="faq" alt=""/>
+    </file>
+    <file name="faq01242x134.jpg" crc="4201467208" seo="true" ref="faq">
+      <caption webpage="faq" alt=""/>
+    </file>
+    <file name="faq01206x115.jpg" crc="7402298" seo="true" ref="faq">
+      <caption webpage="faq" alt=""/>
+    </file>
+    <file name="testimonials01.jpg" crc="3788006527" seo="true" ref="testimonials">
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+    </file>
+    <file name="testimonials02.jpg" crc="2105433" seo="true" ref="testimonials">
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+    </file>
+    <file name="testimonials01res2.jpg" crc="4083967622" seo="true" ref="testimonials">
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+    </file>
+    <file name="testimonials02res02.jpg" crc="3831833382" seo="true" ref="testimonials">
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+    </file>
+    <file name="contact01.jpg" crc="151880449" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="train01.jpg" crc="326739958" seo="true" ref="training---certification">
+      <caption webpage="training---certification" alt=""/>
+      <caption webpage="training---certification" alt=""/>
+      <caption webpage="training---certification" alt=""/>
+      <caption webpage="training---certification" alt=""/>
+      <caption webpage="training---certification" alt=""/>
+    </file>
+    <file name="train01693x205.jpg" crc="212020468" seo="true" ref="training---certification">
+      <caption webpage="training---certification" alt=""/>
+    </file>
+    <file name="train01542x160.jpg" crc="4023407594" seo="true" ref="training---certification">
+      <caption webpage="training---certification" alt=""/>
+    </file>
+    <file name="train01521x154.jpg" crc="3785819032" seo="true" ref="training---certification">
+      <caption webpage="training---certification" alt=""/>
+    </file>
+    <file name="train01406x120.jpg" crc="3773090087" seo="true" ref="training---certification">
+      <caption webpage="training---certification" alt=""/>
+    </file>
+    <file name="train01341x101.jpg" crc="439509803" seo="true" ref="training---certification">
+      <caption webpage="training---certification" alt=""/>
+    </file>
+    <file name="train01281x83.jpg" crc="4024775466" seo="true" ref="training---certification">
+      <caption webpage="training---certification" alt=""/>
+    </file>
+    <file name="train01254x75.jpg" crc="12691035" seo="true" ref="training---certification">
+      <caption webpage="training---certification" alt=""/>
+    </file>
+    <file name="train01217x64.jpg" crc="205149423" seo="true" ref="training---certification">
+      <caption webpage="training---certification" alt=""/>
+    </file>
+    <file name="aboutstott.jpg" crc="4135435324" seo="true" ref="about-stott-pilates®">
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+    </file>
+    <file name="sp-logo_bronze_rgb.jpg" crc="450201472" seo="true" ref="about-stott-pilates®">
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+    </file>
+    <file name="aboutstott693x256.jpg" crc="162681247" seo="true" ref="about-stott-pilates®">
+      <caption webpage="about-stott-pilates®" alt=""/>
+    </file>
+    <file name="aboutstott650x240.jpg" crc="423347657" seo="true" ref="about-stott-pilates®">
+      <caption webpage="about-stott-pilates®" alt=""/>
+    </file>
+    <file name="aboutstott542x201.jpg" crc="411318323" seo="true" ref="about-stott-pilates®">
+      <caption webpage="about-stott-pilates®" alt=""/>
+    </file>
+    <file name="aboutstott521x193.jpg" crc="4004617320" seo="true" ref="about-stott-pilates®">
+      <caption webpage="about-stott-pilates®" alt=""/>
+    </file>
+    <file name="aboutstott406x150.jpg" crc="4072617979" seo="true" ref="about-stott-pilates®">
+      <caption webpage="about-stott-pilates®" alt=""/>
+    </file>
+    <file name="aboutstott341x126.jpg" crc="216320246" seo="true" ref="about-stott-pilates®">
+      <caption webpage="about-stott-pilates®" alt=""/>
+    </file>
+    <file name="sp-logo_bronze_rgb_res.jpg" crc="3999851027" seo="true" ref="about-stott-pilates®">
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+      <caption webpage="about-stott-pilates®" alt=""/>
+    </file>
+    <file name="aboutstott281x104.jpg" crc="4223028235" seo="true" ref="about-stott-pilates®">
+      <caption webpage="about-stott-pilates®" alt=""/>
+    </file>
+    <file name="aboutstott254x94.jpg" crc="3852046260" seo="true" ref="about-stott-pilates®">
+      <caption webpage="about-stott-pilates®" alt=""/>
+    </file>
+    <file name="aboutstott217x80.jpg" crc="47662967" seo="true" ref="about-stott-pilates®">
+      <caption webpage="about-stott-pilates®" alt=""/>
+    </file>
+    <file name="aboutabcd01.jpg" crc="3906075319" seo="true" ref="about-abcd-pilates">
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+    </file>
+    <file name="aboutabcd2.jpg" crc="3856319440" seo="true" ref="about-abcd-pilates">
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+    </file>
+    <file name="aboutabcd03.jpg" crc="4261182863" seo="true" ref="about-abcd-pilates">
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+    </file>
+    <file name="st11045_large.jpg" crc="149122479" seo="true" ref="about-abcd-pilates">
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+    </file>
+    <file name="st01067.jpg" crc="61115189" seo="true" ref="about-abcd-pilates">
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+    </file>
+    <file name="aboutabcd01res.jpg" crc="242659366" seo="true" ref="about-abcd-pilates">
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+    </file>
+    <file name="aboutabcd2res.jpg" crc="19655243" seo="true" ref="about-abcd-pilates">
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+    </file>
+    <file name="aboutabcd03res.jpg" crc="4175249129" seo="true" ref="about-abcd-pilates">
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+    </file>
+    <file name="aboutabcd01res2.jpg" crc="104402335" seo="true" ref="about-abcd-pilates">
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+    </file>
+    <file name="aboutabcd2res2.jpg" crc="450777324" seo="true" ref="about-abcd-pilates">
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+    </file>
+    <file name="aboutabcd03res2.jpg" crc="224684591" seo="true" ref="about-abcd-pilates">
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+    </file>
+    <file name="st01067res.jpg" crc="4057247310" seo="true" ref="about-abcd-pilates">
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+    </file>
+    <file name="st11045_largeres.jpg" crc="23524762" seo="true" ref="about-abcd-pilates">
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+      <caption webpage="about-abcd-pilates" alt=""/>
+    </file>
+    <file name="sessions01.jpg" crc="3793313534" seo="true" ref="prices">
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+    </file>
+    <file name="sessions02.jpg" crc="3922984419" seo="true" ref="prices">
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+    </file>
+    <file name="session03.jpg" crc="3784368859" seo="true" ref="prices">
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+    </file>
+    <file name="introofferflyer.jpg" crc="200919315" seo="true" ref="prices">
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="prices" alt=""/>
+    </file>
+    <file name="introofferflyer469x333.jpg" crc="4080566957" seo="true" ref="prices">
+      <caption webpage="prices" alt=""/>
+    </file>
+    <file name="sessions01206x206.jpg" crc="3769344086" seo="true" ref="prices">
+      <caption webpage="prices" alt=""/>
+    </file>
+    <file name="sessions02206x206.jpg" crc="4011439636" seo="true" ref="prices">
+      <caption webpage="prices" alt=""/>
+    </file>
+    <file name="session03206x276.jpg" crc="244326580" seo="true" ref="prices">
+      <caption webpage="prices" alt=""/>
+    </file>
+    <file name="introofferflyer393x280.jpg" crc="3958942634" seo="true" ref="prices">
+      <caption webpage="prices" alt=""/>
+    </file>
+    <file name="sessions01172x172.jpg" crc="180566263" seo="true" ref="prices">
+      <caption webpage="prices" alt=""/>
+    </file>
+    <file name="sessions02172x172.jpg" crc="3761814385" seo="true" ref="prices">
+      <caption webpage="prices" alt=""/>
+    </file>
+    <file name="session03172x231.jpg" crc="85973822" seo="true" ref="prices">
+      <caption webpage="prices" alt=""/>
+    </file>
+    <file name="introofferflyer324x230.jpg" crc="4018436963" seo="true" ref="prices">
+      <caption webpage="prices" alt=""/>
+    </file>
+    <file name="sessions01142x142.jpg" crc="3840320178" seo="true" ref="prices">
+      <caption webpage="prices" alt=""/>
+    </file>
+    <file name="sessions02142x142.jpg" crc="454352698" seo="true" ref="prices">
+      <caption webpage="prices" alt=""/>
+    </file>
+    <file name="session03142x191.jpg" crc="3928924235" seo="true" ref="prices">
+      <caption webpage="prices" alt=""/>
+    </file>
+    <file name="introofferflyer293x209.jpg" crc="3990038946" seo="true" ref="prices">
+      <caption webpage="prices" alt=""/>
+    </file>
+    <file name="sessions01129x129.jpg" crc="335724665" seo="true" ref="prices">
+      <caption webpage="prices" alt=""/>
+    </file>
+    <file name="sessions02129x129.jpg" crc="424420875" seo="true" ref="prices">
+      <caption webpage="prices" alt=""/>
+    </file>
+    <file name="session03129x173.jpg" crc="271242986" seo="true" ref="prices">
+      <caption webpage="prices" alt=""/>
+    </file>
+    <file name="introofferflyer250x178.jpg" crc="271967572" seo="true" ref="prices">
+      <caption webpage="prices" alt=""/>
+    </file>
+    <file name="sessions01110x110.jpg" crc="3857374079" seo="true" ref="prices">
+      <caption webpage="prices" alt=""/>
+    </file>
+    <file name="sessions02110x110.jpg" crc="268270895" seo="true" ref="prices">
+      <caption webpage="prices" alt=""/>
+    </file>
+    <file name="session03110x147.jpg" crc="500297333" seo="true" ref="prices">
+      <caption webpage="prices" alt=""/>
+    </file>
+    <file name="teenage01.jpg" crc="3795347403" seo="true" ref="teenage-pilates">
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+    </file>
+    <file name="teenage02.jpg" crc="53871345" seo="true" ref="teenage-pilates">
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+    </file>
+    <file name="teenage01res2.jpg" crc="523384169" seo="true" ref="teenage-pilates">
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+    </file>
+    <file name="teenage02res2.jpg" crc="4055257491" seo="true" ref="teenage-pilates">
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+    </file>
+    <file name="teenage01res2236x230.jpg" crc="69183606" seo="true" ref="teenage-pilates">
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+    </file>
+    <file name="teenage02res2236x230.jpg" crc="4038973231" seo="true" ref="teenage-pilates">
+      <caption webpage="teenage-pilates" alt=""/>
+      <caption webpage="teenage-pilates" alt=""/>
+    </file>
+    <file name="teenage01res2227x221.jpg" crc="490963146" seo="true" ref="teenage-pilates">
+      <caption webpage="teenage-pilates" alt=""/>
+    </file>
+    <file name="teenage02res2227x221.jpg" crc="401987354" seo="true" ref="teenage-pilates">
+      <caption webpage="teenage-pilates" alt=""/>
+    </file>
+    <file name="teenage01res2177x173.jpg" crc="4200991334" seo="true" ref="teenage-pilates">
+      <caption webpage="teenage-pilates" alt=""/>
+    </file>
+    <file name="teenage02res2177x173.jpg" crc="403537632" seo="true" ref="teenage-pilates">
+      <caption webpage="teenage-pilates" alt=""/>
+    </file>
+    <file name="teenage01res2148x145.jpg" crc="4201114806" seo="true" ref="teenage-pilates">
+      <caption webpage="teenage-pilates" alt=""/>
+    </file>
+    <file name="teenage02res2148x145.jpg" crc="256804888" seo="true" ref="teenage-pilates">
+      <caption webpage="teenage-pilates" alt=""/>
+    </file>
+    <file name="teenage01res2122x119.jpg" crc="4272448539" seo="true" ref="teenage-pilates">
+      <caption webpage="teenage-pilates" alt=""/>
+    </file>
+    <file name="teenage02res2122x119.jpg" crc="3833593429" seo="true" ref="teenage-pilates">
+      <caption webpage="teenage-pilates" alt=""/>
+    </file>
+    <file name="teenage01res2111x108.jpg" crc="4257969557" seo="true" ref="teenage-pilates">
+      <caption webpage="teenage-pilates" alt=""/>
+    </file>
+    <file name="teenage02res2111x108.jpg" crc="3835412853" seo="true" ref="teenage-pilates">
+      <caption webpage="teenage-pilates" alt=""/>
+    </file>
+    <file name="teenage01res295x92.jpg" crc="3815376062" seo="true" ref="teenage-pilates">
+      <caption webpage="teenage-pilates" alt=""/>
+    </file>
+    <file name="teenage02res295x92.jpg" crc="303225158" seo="true" ref="teenage-pilates">
+      <caption webpage="teenage-pilates" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4252332089" seo="true" mt="1525340894043" redirect="true"/>
+  <file name="about-jeannie-marie.html" crc="61792711" seo="true" mt="1525340894043" redirect="true"/>
+  <file name="faq.html" crc="3138396" seo="true" mt="1525564525302" redirect="true"/>
+  <file name="testimonials.html" crc="536538284" seo="true" mt="1525340894043" redirect="true"/>
+  <file name="contact.html" crc="93350269" seo="true" mt="1525564173318" redirect="true"/>
+  <file name="training---certification.html" crc="4066636867" seo="true" mt="1525340894043" redirect="true"/>
+  <file name="about-stott-pilates®.html" crc="3988039700" seo="true" mt="1525340894043" redirect="true"/>
+  <file name="about-abcd-pilates.html" crc="373744220" seo="true" mt="1525340894043" redirect="true"/>
+  <file name="prices.html" crc="291406101" seo="true" mt="1525340894043" redirect="true"/>
+  <file name="teenage-pilates.html" crc="4232235790" seo="true" mt="1525340894043" redirect="true"/>
+  <file name="about.html" crc="91167829" seo="true" mt="1525340894043" redirect="true"/>
+</manifest>
